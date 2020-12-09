@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  urlFirst: 'http://127.0.0.1:5000/',
+  urlFirst: 'http://127.0.0.1:5000/',//urlFirst: 'http://127.0.0.1:5000/',
   urlSecond: 'http://127.0.0.1:8080/'
 };
 
